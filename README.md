@@ -6,14 +6,7 @@ I am also beginner as you are. So I have plan to learning Python programming by 
 Let's start developer coding from today with me! :)
 
 I will upload Pyhton exercise codes in this repository I coded and tested.
-I wish you enjoy Python coding fully.
+I wish you fully enjoy Python coding!
 
-Thank you.
-
-
-I add Demo scription as following
-# Demo
-
-##SubHeader
-Welcome to open the README.MD file for demonstration of Git edit feature!
+Take care & Thank you!
 
